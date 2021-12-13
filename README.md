@@ -34,16 +34,16 @@ And to raise the project, the following command in the terminal or console from 
 
 ## Built with 🛠️
 
-[HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
-[Material UI](https://mui.com/)
-[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[ReactJs](https://reactjs.org/docs/getting-started.html)
-[Redux](https://es.redux.js.org/)
-[Axios](https://axios-http.com/docs/intro)
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Material UI](https://mui.com/)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [ReactJs](https://reactjs.org/docs/getting-started.html)
+- [Redux](https://es.redux.js.org/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ---
 
 ## Author ✒️
 
-###### Roberto Robol | [GitHub](https://github.com/robolfba) | [LinkedIn](https://www.linkedin.com/in/roberto-robol-794686215/)
+- #### Roberto Robol | [GitHub](https://github.com/robolfba) | [LinkedIn](https://www.linkedin.com/in/roberto-robol-794686215/)
 
