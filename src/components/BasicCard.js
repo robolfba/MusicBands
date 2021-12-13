@@ -26,7 +26,7 @@ export default function BasicCard({
             borderTop: "solid",
             borderColor: deepPurple[900],
             width: 275,
-            height: 230,
+            height: 250,
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
@@ -38,6 +38,7 @@ export default function BasicCard({
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
+              marginTop: 1,
             }}
           >
             <Typography variant="h5" component="div">{`${name}`}</Typography>
